@@ -15,7 +15,7 @@ testX, testY, testSubject, trainX, trainY, and trainSubject
 
 The files above are combined into a single dataset, denoted by the variable, dat.
 
-Mean and standard deviation calculations are used on entries with the words, "std" or "mean" in them.  
+Mean and standard deviation calculations are used on entries with the words, "std" or "mean" in them and broken down by the subject and type of activity.  
 
 A column is added to the full dataset that names the type of activity for each row.  The column is named activityNames and the values include Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing, and Laying.  
 
