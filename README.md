@@ -7,13 +7,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Specifically, the following files within that zip file were used: 
 
-X_test.txt
-y_test.txt
-subject_test.txt
-X_train.txt
-y_train.txt
-subject_train.txt
-features.txt
+X_test.txt, y_test.txt, subject_test.txt, X_train.txt, y_train.txt, subject_train.txt, features.txt
 
 Within the code, the files are renamed for simplicity, as follows:
 
